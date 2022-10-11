@@ -1,0 +1,27 @@
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.logo-container .logo {
+  height: 32px;
+  margin: 16px;
+}
+.logo-container .title {
+  color: #fff;
+  font-size: 18px;
+}
+.site-layout .site-layout-background {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
+.site-layout .site-layout-background .header-r {
+  width: 100px;
+  height: 30px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
+.site-layout .site-layout-background .header-r .header-txt {
+  margin: 0 12px;
+}

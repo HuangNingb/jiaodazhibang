@@ -1,0 +1,16 @@
+.content {
+  padding: 25px;
+  display: flex;
+}
+.content .btn {
+  width: 100px;
+  border: #41719c 3px solid;
+  background-color: #5b9bd5;
+  text-align: center;
+  line-height: 40px;
+}
+.content input {
+  width: 300px;
+  outline: none;
+  margin-right: 20px;
+}
